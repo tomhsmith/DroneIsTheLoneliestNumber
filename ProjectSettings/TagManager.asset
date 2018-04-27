@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wheel
+  - Wheel House
+  - Tank Top
+  - Projectile Spawn
+  - Floor
+  - Projectile Container
+  - Controller 0
+  - Controller 1
+  - Headset
+  - Rotation Decoration
+  - Team 00
+  - Explosion
+  - Drone
+  - Player Target
+  - Team 01 Spawn
+  - Building Block
+  - Controllable Mover
+  - Waypoint
+  - Projectile
+  - Health Text
+  - Display Canvas
+  - FxTemporaire
+  - Intro Canvas
+  - HUD
+  - VR
+  - FPS
+  - Site
+  - Touchpad
+  - Optional Text
+  - Trigger
+  - Audio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

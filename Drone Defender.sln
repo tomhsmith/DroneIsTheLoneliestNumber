@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drone Defender", "Drone Defender.csproj", "{1A1C64A5-5A61-CD12-2BCE-F35886E80427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drone Defender.Plugins", "Drone Defender.Plugins.csproj", "{2D9B932E-AEC8-1481-CD24-87A45426A26E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drone Defender.Editor", "Drone Defender.Editor.csproj", "{CE20B301-0D51-F38B-3411-94573EDADCC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1C64A5-5A61-CD12-2BCE-F35886E80427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1C64A5-5A61-CD12-2BCE-F35886E80427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1C64A5-5A61-CD12-2BCE-F35886E80427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1C64A5-5A61-CD12-2BCE-F35886E80427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9B932E-AEC8-1481-CD24-87A45426A26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9B932E-AEC8-1481-CD24-87A45426A26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9B932E-AEC8-1481-CD24-87A45426A26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9B932E-AEC8-1481-CD24-87A45426A26E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE20B301-0D51-F38B-3411-94573EDADCC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE20B301-0D51-F38B-3411-94573EDADCC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE20B301-0D51-F38B-3411-94573EDADCC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE20B301-0D51-F38B-3411-94573EDADCC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

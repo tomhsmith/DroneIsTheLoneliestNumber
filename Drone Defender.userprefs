@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Drone Defender.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Game\MainGameContext.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Game\Views\Explosion\LaserView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\Views\Drone\DroneAirBasicView.cs" Line="40" Column="3" />
+      <File FileName="Assets\Scripts\Game\MainGameContext.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="P:\DroneDefender\Drone Defender\Assets\Scripts\Game\Views\Explosion\LaserView.cs" line="74" column="1" />
+      <Breakpoint file="P:\DroneDefender\Drone Defender\Assets\Scripts\Game\Views\Explosion\LaserView.cs" line="78" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
